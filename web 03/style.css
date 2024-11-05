@@ -1,0 +1,96 @@
+*{
+  margin: ;
+}
+body { background-color: black;}
+.header{
+  font-size: 50px;
+  position: absolute;
+  left: 740px;
+  top: 40px;
+  color: rgba(128, 128, 128, 0.795);
+  cursor: pointer;
+}
+.header:hover{
+  color: rgb(219, 79, 61);
+  transition: 0.8s;
+}
+.header-2{
+  font-size: 16px;
+  color: rgba(128, 128, 128, 0.795);
+  position: absolute;
+  left: 702px;
+  top: 105px;
+  letter-spacing: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hr-line{
+  color: rgba(128, 128, 128, 0.795);
+  font-weight: lighter;
+  position: relative;
+  top: 170px;
+}
+.navbar{
+  color: white;
+  display: flex;
+  flex-direction: row;
+ padding: 22px;
+
+  
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  gap: 28px;
+  position: relative;
+  margin-left:33% ;
+  margin-top: 150px;
+  font-family: sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+ 
+ 
+}
+ul :hover{
+  color: rgb(219, 79, 61);
+  transition: 0.8s;
+  
+}
+.image-2{
+  width: 100%;
+}
+.center-1{
+  font-size: 20px;
+  color: rgba(128, 128, 128, 0.87);
+  position: relative;
+  left: 286px;
+  margin-top: 147px;
+
+}
+.center-2{
+  font-size: 20px;
+  color: rgba(128, 128, 128, 0.89);
+  position: relative;
+  left: 478px;
+  margin-top: 42px;
+}
+.image-3{
+position: relative;
+left: 428px;
+margin-top: 57px;
+}
+.image-5{
+  position: relative;
+  left: 475px;
+  margin-top: 200px;
+}
+.footer{
+  color: rgba(128, 128, 128, 0.795);
+  font-size: 15px;
+  position: relative;
+  left: 681px;
+  margin-top: 165px;
+}
+
